@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Alok Kumar
+## 👋 Hi, I’m @Alok Kumar
 - 👀 I’m interested in computer science
 - 🌱 I’m exploring the web and learing fullstack development
 - 💞️ I’m looking to collaborate on opensource
